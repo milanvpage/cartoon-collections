@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/milanvpage/Development/Code/cartoon-collections/cartoon_collections.rb:20 Object#long_planeteer_calls:
+
+    [1;34m19[0m: [32mdef[0m [1;34mlong_planeteer_calls[0m(calls)[1;34m# code an argument here[0m
+ => [1;34m20[0m:   binding.pry
+    [1;34m21[0m:   [32mif[0m calls.length >= [1;34m4[0m
+    [1;34m22[0m:      [1;36mtrue[0m
+    [1;34m23[0m:   [32melse[0m calls.length < [1;34m4[0m
+    [1;34m24[0m:      [1;36mfalse[0m
+    [1;34m25[0m:   [32mend[0m
+    [1;34m26[0m: 
+    [1;34m27[0m:      
+    [1;34m28[0m:   [1;34m# Your code here[0m
+    [1;34m29[0m: [32mend[0m
+
